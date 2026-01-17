@@ -96,8 +96,8 @@ excel-ecommerce-sales-dashboard/
 
 ## 📬 Contact
 **Devendra Patil**  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/Devendra0602 
+- LinkedIn: linkedin.com/in/patil-devendra2701
 
 
 ## 📂 Project Structure
