@@ -54,6 +54,7 @@ The dataset used in this project was pre-processed, and the main objective was t
 
 ---
 
+## 📂 Project Structure
 excel-ecommerce-sales-dashboard/
 │
 ├── data/
@@ -96,8 +97,8 @@ excel-ecommerce-sales-dashboard/
 
 ## 📬 Contact
 **Devendra Patil**  
-- GitHub: https://github.com/Devendra0602 
-- LinkedIn: linkedin.com/in/patil-devendra2701
+- GitHub:   https://github.com/Devendra0602
+- LinkedIn: https://www.linkedin.com/in/patil-devendra2701
 
 
-## 📂 Project Structure
+
